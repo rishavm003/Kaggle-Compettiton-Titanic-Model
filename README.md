@@ -1,4 +1,4 @@
-Describtion of the Competition
+# Describtion of the Competition
 
 
 The Challenge
@@ -12,7 +12,7 @@ While there was some element of luck involved in surviving, it seems some groups
 In this challenge, we ask you to build a predictive model that answers the question: “what sorts of people were more likely to survive?” using passenger data (ie name, age, gender, socio-economic class, etc).
 
 
-What Data Will I Use in This Competition?
+# What Data Will I Use in This Competition?
 In this competition, you’ll gain access to two similar datasets that include passenger information like name, age, gender, socio-economic class, etc. 
 One dataset is titled train.csv and the other is titled test.csv.
 
@@ -24,7 +24,7 @@ Using the patterns you find in the train.csv data, predict whether the other 418
 
 Check out the “Data” tab to explore the datasets even further. Once you feel you’ve created a competitive model, submit it to Kaggle to see where your model stands on our leaderboard against other Kagglers.
 
-How to Submit your Prediction to Kaggle
+# How to Submit your Prediction to Kaggle
 Once you’re ready to make a submission and get on the leaderboard:
 <img width="956" alt="screen1" src="https://github.com/rishavm003/Titanic-Model/assets/93468579/140b063f-7dc8-4df8-a72c-af6309fab1c5">
 
@@ -34,7 +34,7 @@ Click on the “Submit Predictions” button
 Upload a CSV file in the submission file format. You’re able to submit 10 submissions a day.
 
 
-Submission File Format:
+# Submission File Format:
 You should submit a csv file with exactly 418 entries plus a header row. Your submission will show an error if you have extra columns (beyond PassengerId and Survived) or rows.
 
 The file should have exactly 2 columns:
