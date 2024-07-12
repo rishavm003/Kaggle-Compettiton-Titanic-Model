@@ -1,3 +1,10 @@
+# My Result
+I recently completed a Kaggle competition "Titanic: Machine Learning from Disaster," achieving a score of 0.76794.
+![image](https://github.com/user-attachments/assets/9b28ec2d-ea61-4e9a-9f9b-634a15fd5425)
+
+If you want to learn more about the competition go through my readme file it will give you a brief understanding of the project.
+
+
 # Describtion of the Competition
 
 
@@ -41,3 +48,5 @@ The file should have exactly 2 columns:
 
 PassengerId (sorted in any order)
 Survived (contains your binary predictions: 1 for survived, 0 for deceased)
+
+
